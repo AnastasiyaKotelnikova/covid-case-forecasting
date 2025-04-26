@@ -52,6 +52,7 @@ covid-case-forecasting/
 
 **Anastasiya Kotelnikova**  
 MS Data Science Candidate | NJIT  
-[LinkedIn](https://www.linkedin.com/in/anastasiya-kotelnikova-511660346) | [GitHub](https://github.com/AnastasiyaKotelnikova)
+Email: [anastasiyakotelnikova21@gmail.com](mailto:anastasiyakotelnikova21@gmail.com)  
+[GitHub Profile](https://github.com/AnastasiyaKotelnikova) • [Portfolio Website](https://anastasiyakotelnikova.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/anastasiyakotelnikova/)
 
 
